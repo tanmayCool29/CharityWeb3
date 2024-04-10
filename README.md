@@ -23,6 +23,27 @@ The rise of blockchain technology has opened up new avenues for transparency, se
 - MetaMask for wallet integration
 - HTML, CSS, JavaScript for front-end development
 
+## Usage
+- Start DApp
+- ganache-cli
+- truffle complie
+- truffle migrate  --network development
+- python app.py
+
+
+## Experimental Setup
+
+- Dockerized Images: Docker images are created for Ethereum and Hyperledger platforms, including the DApp server and Ganache test blockchain for Ethereum.
+- Deployment: Smart contracts are compiled and deployed on both Ethereum and Hyperledger blockchain networks.
+- Front-end Deployment: The client-side application is deployed on a web server, accessible to users through web browsers.
+
+## Result Analysis and Discussion:
+The decentralized charity platform provides several benefits:
+
+- Transparency: All transactions and interactions between donors and charities are recorded on the blockchain, ensuring transparency and accountability.
+- Security: The use of blockchain technology enhances security by eliminating single points of failure and reducing the risk of fraud.
+- Decentralization: By leveraging blockchain, the platform operates without the need for intermediaries, reducing costs and improving efficiency.
+
 ## Installation
 
 1. Clone the repository:
